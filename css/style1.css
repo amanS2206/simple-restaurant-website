@@ -1,0 +1,38 @@
+.footer{
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+    text-align: left;
+}
+.jumbotron{
+    
+    text-align: left;
+    background-color: #9575CD;
+    color: floralwhite;
+
+}
+
+.history{
+    margin-left: 25px;
+    padding: 40px 0px 40px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.content{
+   
+    margin-bottom: 50px;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background: #512DA8;
+}
+
