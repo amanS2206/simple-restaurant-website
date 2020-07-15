@@ -36,3 +36,9 @@ body{
     background: #512DA8;
 }
 
+.tab-content{
+    border-left: 1px solid #DDDD;
+    border-right: 1px solid #DDDD;
+    border-bottom: 1px solid #DDDD;
+    padding: 10px;
+}
